@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=explore-md&label=Profile+Views&color=success&style=flat-square" />
 <img src="https://img.shields.io/github/forks/nomfundokagwe/Explore-md-V1?color=blue&style=yellow-square" />
 <img src="https://img.shields.io/github/forks/nomfundokagwe/Explore-md-V1?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/nomfundokagwe/Explored-V1?color=success&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/nomfundokagwe/Explore-V1?color=success&style=flat-square" />
 <img src="https://img.shields.io/github/last-commit/nomfundokagwe/Explore-md-V1?color=yellow&style=flat-square" />
 <a href="https://t.me/darknessfreenetsquad">
   <img title="Join our Discord" src="https://img.shields.io/discord/1391898062494105752?label=Discord&logo=discord&logoColor=white&style=flat-square&color=7289DA" alt="Discord">
