@@ -41,7 +41,7 @@ async function helpCommand(sock, chatId, message) {
 ┃🕦 *Time: ${new Date().toLocaleString()}*
 ┃⚡ *Speed: ${ping} ms*
 ┃⚙️ *vassion: v${settings.version}*
-┃🌟 *type : 𝘾𝘼𝙎𝙀
+┃🌟 *type : 𝘾𝘼𝙎𝙀*
 ┃🗿 *status : 𝙊𝙣𝙡𝙞𝙣𝙚✅*
 ┃☣️ *total commands :300*
 ┗⏤͟͞≛⃝https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J
