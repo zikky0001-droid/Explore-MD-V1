@@ -19,6 +19,13 @@
 </div>
   
 ----
+<p align="center">
+    <strong>2. GET SESSION ID</strong>
+    <br>
+    <a href="https://explore-md-botswebpair.onrender.com/pair" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Pair-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
 
 <h2 align="center">🛰️ Deployment Steps</h2>
 
